@@ -1,4 +1,4 @@
-# Nisshin-GCNSystem
+# Nisshin-GCNSystem-Lambda
 AWS Lambdaの関数を格納
 
 nisshin-gcnsystem-gcp-csv2geojson : ゴミ集積所のCSVデータをMongoDBにインポートするGeoJSON形式に変換する関数．S3にCSVファイルがアップロードされたら，自動的に変換する．
