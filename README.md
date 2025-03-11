@@ -1,2 +1,6 @@
 # Nisshin-GCNSystem-csv2json
-nisshin-gcnsystemのs3にアップロードされる.csvファイルを.jsonファイルに変換し、ec2のインスタンス'nisshin-gcnsystem'にあるMongoDBに作成した.jsonファイルをアップロードする関数。またMongoDBにある.jsonファイルを利用して可視化用データセットを作成する関数
+あああああああ
+# nisshin-gcnsystem-gcp-csv2geojson
+# nisshin-gcnsystem-GarbageCollectionForVisualization
+# nisshin-gcnsystem-MultipleGarbageCollection-csv2json
+
